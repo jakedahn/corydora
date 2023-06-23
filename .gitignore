@@ -1,0 +1,7 @@
+transcripts
+chunked-transcripts
+chroma.db
+projector
+embedded
+transcripts-raw
+*.jsonl
