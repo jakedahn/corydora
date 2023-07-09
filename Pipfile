@@ -12,6 +12,9 @@ openai = {extras = ["datalib"], version = "*"}
 retrying = "*"
 tqdm = "*"
 chromadb = "*"
+langchain = "*"
+promptlayer = "*"
+prompt-toolkit = "*"
 
 [dev-packages]
 
