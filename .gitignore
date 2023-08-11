@@ -5,3 +5,4 @@ projector
 embedded
 transcripts-raw
 *.jsonl
+.env

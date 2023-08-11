@@ -15,6 +15,7 @@ chromadb = "*"
 langchain = "*"
 promptlayer = "*"
 prompt-toolkit = "*"
+numpy = "*"
 
 [dev-packages]
 
